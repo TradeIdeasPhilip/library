@@ -1,0 +1,1 @@
+I'm tired of copying these files from one project to the next.
