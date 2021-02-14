@@ -1,5 +1,5 @@
 export function getById(id, ty) {
-    var found = document.getElementById(id);
+    const found = document.getElementById(id);
     if (!found) {
         throw new Error("Could not find element with id " + id + ".  Expected type:  " + ty.name);
     }
